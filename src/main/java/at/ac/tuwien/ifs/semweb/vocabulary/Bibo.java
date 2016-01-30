@@ -1,4 +1,4 @@
-package at.ac.tuwien.ifs.ontos.bibo;
+package at.ac.tuwien.ifs.semweb.vocabulary;
 
 /**
  * Contains URIs for the bibo vocabulary (see: http://bibliontology.com/). Created by schemagen and customized.
